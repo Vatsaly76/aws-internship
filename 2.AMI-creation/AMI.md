@@ -28,8 +28,8 @@ Before you begin:
    - Choose either **Linux** or **Windows** server as per your requirement.  
    - **Host any basic application or webpage** (e.g., a simple `index.html`).  
    - If you need help with server setup, refer to:  
-     - 👉 [Linux EC2 Server Setup Guide](https://github.com/Vatsaly76/aws-internship/blob/main/server-creation/linux-server/linux.md)  
-     - 👉 [Windows EC2 Server Setup Guide](https://github.com/Vatsaly76/aws-internship/blob/main/server-creation/windows-server/windows-server.md)  
+     - 👉 [Linux EC2 Server Setup Guide](https://github.com/Vatsaly76/aws-internship/blob/c2711b2ff2a10d4f4de49511c3d99f27deedcdf4/1.server-creation/linux-server/linux.md)  
+     - 👉 [Windows EC2 Server Setup Guide](https://github.com/Vatsaly76/aws-internship/blob/c2711b2ff2a10d4f4de49511c3d99f27deedcdf4/1.server-creation/windows-server/windows-server.md)  
 
 ---
 
