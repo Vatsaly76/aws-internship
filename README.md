@@ -23,9 +23,4 @@ Every module includes:
 🧾 Description of what was done  
 🎯 Purpose and learnings from each task  
 
-> Example: Creating an SNS Topic and sending an SMS with visual walkthrough
-
----
-
-## 🧩 Folder Structure
 
